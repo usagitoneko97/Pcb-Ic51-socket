@@ -45,7 +45,7 @@
     (trace_min 0.2)
     (segment_width 0.2)
     (edge_width 0.15)
-    (via_size 0.6)
+    (via_size 1)
     (via_drill 0.4)
     (via_min_size 0.4)
     (via_min_drill 0.3)
@@ -241,7 +241,7 @@
   (net_class Default "This is the default net class."
     (clearance 0.2)
     (trace_width 0.25)
-    (via_dia 0.6)
+    (via_dia 1)
     (via_drill 0.4)
     (uvia_dia 0.3)
     (uvia_drill 0.1)
