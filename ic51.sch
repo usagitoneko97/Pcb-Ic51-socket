@@ -28,6 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:ic51
 LIBS:ic51-cache
 EELAYER 25 0
 EELAYER END
@@ -678,34 +679,34 @@ F 3 "" H 1600 3600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Conn_02x18_Odd_Even J4
+L Conn_02x18_Odd_Even J3
 U 1 1 59CCFE1F
 P 9800 3500
-F 0 "J4" H 9850 4400 50  0000 C CNN
+F 0 "J3" H 9850 4400 50  0000 C CNN
 F 1 "Conn_02x18_Odd_Even" H 9850 2500 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x18_Pitch2.54mm" H 9800 3500 50  0001 C CNN
+F 2 "ic51-1444:Socket_Strip_Straight_2x18_Pitch2.54mm_no_rectangle" H 9800 3500 50  0001 C CNN
 F 3 "" H 9800 3500 50  0001 C CNN
 	1    9800 3500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Conn_02x18_Odd_Even J2
+L Conn_02x18_Odd_Even J4
 U 1 1 59CCFE53
 P 5600 1050
-F 0 "J2" H 5650 1950 50  0000 C CNN
+F 0 "J4" H 5650 1950 50  0000 C CNN
 F 1 "Conn_02x18_Odd_Even" H 5650 50  50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x18_Pitch2.54mm" H 5600 1050 50  0001 C CNN
+F 2 "ic51-1444:Socket_Strip_Straight_2x18_Pitch2.54mm_no_rectangle" H 5600 1050 50  0001 C CNN
 F 3 "" H 5600 1050 50  0001 C CNN
 	1    5600 1050
 	0    1    1    0   
 $EndComp
 $Comp
-L Conn_02x18_Odd_Even J3
+L Conn_02x18_Odd_Even J2
 U 1 1 59CCFF18
 P 5650 7250
-F 0 "J3" H 5700 8150 50  0000 C CNN
+F 0 "J2" H 5700 8150 50  0000 C CNN
 F 1 "Conn_02x18_Odd_Even" H 5700 6250 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x18_Pitch2.54mm" H 5650 7250 50  0001 C CNN
+F 2 "ic51-1444:Socket_Strip_Straight_2x18_Pitch2.54mm_no_rectangle" H 5650 7250 50  0001 C CNN
 F 3 "" H 5650 7250 50  0001 C CNN
 	1    5650 7250
 	0    -1   -1   0   
