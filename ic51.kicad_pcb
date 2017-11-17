@@ -1399,7 +1399,7 @@
   (gr_text 144 (at 124.59 58.55 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1)))
   )
-  (gr_text 71 (at 167.89 120.27 180) (layer F.SilkS)
+  (gr_text 71 (at 167.89 120.27 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.1)))
   )
   (gr_text 69 (at 165.35 120.27 90) (layer F.SilkS)
